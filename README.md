@@ -1,2 +1,3 @@
-# Racked_Musics
-type racing game
+# Web Music Player 
+
+A simple music player using HTML , CSS and JavaScript
